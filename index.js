@@ -3,8 +3,8 @@ const Discord = require("discord.js");
 var bot = new Discord.Client();
 
 bot.on("ready", function() {
-    bot.user.setGame("|Dev By [V8] GForce|");
-    console.log("666")
+    bot.user.setGame("|Bot en cour de codage|");
+    console.log("Le bot a bien ete connecte")
 });
 
 const PREFIX = "//";
