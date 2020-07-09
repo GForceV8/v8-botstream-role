@@ -4,7 +4,7 @@ var bot = new Discord.Client();
 
 bot.on("ready", function() {
     bot.user.setGame("|Dev By [V8] GForce|");
-    console.log("Bot en cours de codage")
+    console.log("666")
 });
 
 const PREFIX = "//";
