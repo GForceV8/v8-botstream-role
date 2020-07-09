@@ -7,7 +7,7 @@ bot.on("ready", function() {
     console.log("Bot en cours de codage")
 });
 
-const PREFIX = "*";
+const PREFIX = "//";
 
 const EVERYONE = "@";
 
